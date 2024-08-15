@@ -13,7 +13,7 @@
 
 - 👽 I'm 27 years old, Brazilian, and currently living in Portugal.
 - 🎓 I graduated in Audiovisual and Cinema, but I swapped scripts for code.
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning React.
 - ⚡ Fun fact: I don't drink coffee, but my code still runs on pure adrenaline!
 - 💬 Ask me about movies and travel.
 </br>
