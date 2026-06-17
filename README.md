@@ -10,11 +10,25 @@
 </p>
 <br>
 
-- 👽 Brazilian living in Portugal.
+- 👽 Brazilian living in Lisboa, Portugal.
 - 🎓 I graduated in Audiovisual and Cinema, but I swapped scripts for code.
-- 🏫 Currently studying at **42 Lisboa** — working in C, next stop: Python.
-- ⚡ Fun fact: I don't drink coffee, but my code still runs on pure adrenaline!
-- 💬 Ask me about movies and travel.
+- 🏫 Currently in the 42 Lisboa Common Core — working in C, next stop: Python.
+- 🔍 Looking for my first opportunity as a junior developer.
+
+---
+
+## 👨‍💻 Languages and Tools
+
+<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" height="25" />
 
 ---
 
@@ -35,34 +49,6 @@
 |---|---|---|
 | [SheRoams](https://github.com/KimberllyAtanazio/b4f_final_project) | Travel platform for women — safety, community & trip planning | Next.js · JS · CSS |
 | [Personal Trainer App](https://github.com/santosfg3/personal-trainer-hackaton) | Hackathon — personal trainer web app (collaborative) | Next.js · JS · CSS |
-
----
-
-## 🌱 Learning Projects (2024)
-
-| Project | Description | Tech |
-|---|---|---|
-| [Tic Tac Toe](https://github.com/KimberllyAtanazio/tic-tac-toe) | Classic game built with JS | CSS · JS |
-| [Portfolio Web](https://github.com/KimberllyAtanazio/portfolio-web) | Personal portfolio page | HTML · CSS |
-| [Jogo do Número Secreto](https://github.com/KimberllyAtanazio/jogo-do-numero-secreto) | Number guessing game | HTML · JS |
-| [Projeto GTA](https://github.com/KimberllyAtanazio/projeto-gta) | GTA-themed layout practice | CSS |
-| [Projeto Discover](https://github.com/KimberllyAtanazio/projeto-discover) | Rocketseat Discover exercises | CSS |
-| Logic Challenges (DIO) | [1](https://github.com/KimberllyAtanazio/desafio-logica-inicial) · [2](https://github.com/KimberllyAtanazio/desafio-logica-dois) · [3](https://github.com/KimberllyAtanazio/desafio-logica-final) | JavaScript |
-
----
-
-## 👨‍💻 Languages and Tools
-
-<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" height="25" />
 
 ---
 
