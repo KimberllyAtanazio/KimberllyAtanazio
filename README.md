@@ -43,9 +43,9 @@
 
 | Project | Description | Language | Status |
 |---|---|---|---|
-| [libft](https://github.com/KimberllyAtanazio/libft) | Reimplementation of essential C standard library functions | C | ✅ Done |
-| [ft_printf](https://github.com/KimberllyAtanazio/ft_printf) | Reimplementation of printf with variadic arguments | C | ✅ Done |
-| push_swap | Sorting algorithm using two stacks (collaborative) | C | ✅ Done |
+| [libft](https://github.com/KimberllyAtanazio/libft) | Reimplementation of essential C standard library functions | C | 💯 100/100 |
+| [ft_printf](https://github.com/KimberllyAtanazio/ft_printf) | Reimplementation of printf with variadic arguments | C | 💯 100/100 |
+| push_swap | Sorting algorithm using two stacks (collaborative) | C | 💯 100/100 |
 | get_next_line | Read a file line by line | C | 🔄 In progress |
 
 ---
